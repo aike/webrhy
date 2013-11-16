@@ -15,7 +15,7 @@
   http://aikelab.net/webrhy/
 
 4. DEMO MOVIE
-  http://www.youtube.com/watch?v=QhcG_Q0MIeg
+  http://www.youtube.com/watch?v=MDdGhQRNrxc
 
 5. CREDIT
   Webrhy program is licenced under MIT License.
