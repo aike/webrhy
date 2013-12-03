@@ -136,7 +136,10 @@ Player.prototype.setPan = function(inst, pan) {
 				this.bass.setPan(pan);
 				break;
 			case 2:
-//				this.drumGain.setPan(pan);
+				this.kick.setPan(pan);
+				this.clap.setPan(pan);
+				this.snare.setPan(pan);
+				this.hat.setPan(pan);
 				break;
 		}
 	}
